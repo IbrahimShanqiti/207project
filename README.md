@@ -11,3 +11,9 @@ The API we're currently looking at is [GeoDB Cities API](http://geodb-cities-api
 Here is a screenshot of the GeoDB Cities API being used in [HoppScotch](https://hoppscotch.io/).
 
 ![Api Call in HoppScotch](ApiCall.png)
+
+# Java Code Example
+
+Here's an example of calling the API in Java:
+![Java API Call](JavaApiCall.png)
+
