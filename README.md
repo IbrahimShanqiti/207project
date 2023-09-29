@@ -10,4 +10,4 @@ The API we're currently looking at is [GeoDB Cities API](http://geodb-cities-api
 
 Here is a screenshot of the GeoDB Cities API being used in [HoppScotch](https://hoppscotch.io/).
 
-
+![Api Call in HoppScotch](ApiCall.png)
